@@ -1,0 +1,31 @@
+_repo: The-Modern-Housewife-or-M-nag-re--13-Comprising-Nearly-One-Thousand-Receipts-for-the-Economic__41899
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41899-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Soyer, Alexis
+    alias: Soyer, A. (Alexis)
+    birthdate: 1809
+    deathdate: 1858
+    gutenberg_agent_id: '41417'
+    url: http://www.gutenberg.org/2009/agents/41417
+    wikipedia: http://en.wikipedia.org/wiki/Alexis_Soyer
+description: ''
+gutenberg_issued: '2013-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcc 'TX'
+title: "The Modern Housewife or, Ménagère\r\nComprising Nearly One Thousand Receipts,\
+  \ for the Economic and Judicious Preparation of Every Meal of the Day, with those\
+  \ of The Nursery and Sick Room, and Minute Directions for Family Management in All\
+  \ its Branches."
+url: http://www.gutenberg.org/ebooks/41899
