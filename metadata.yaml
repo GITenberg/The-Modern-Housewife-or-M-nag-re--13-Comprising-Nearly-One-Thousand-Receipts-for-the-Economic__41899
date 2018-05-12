@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41417
     wikipedia: http://en.wikipedia.org/wiki/Alexis_Soyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41899#The-Modern-Housewife-or-M-nag-re--13-Comprising-Nearly-One-Thousand-Receipts-for-the-Economic_
 gutenberg_issued: '2013-01-22'
 gutenberg_type: Text
 identifiers:
